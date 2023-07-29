@@ -1,0 +1,6 @@
+R:\Games\Aces and Adventures\BepInEx\plugins\AceAddLeaf.dll
+R:\Games\Aces and Adventures\BepInEx\plugins\AceAddLeaf.pdb
+D:\source\repos\AceAddLeaf\obj\Release\AceAddLeaf.csproj.AssemblyReference.cache
+D:\source\repos\AceAddLeaf\obj\Release\AceAddLeaf.csproj.CoreCompileInputs.cache
+D:\source\repos\AceAddLeaf\obj\Release\AceAddLeaf.dll
+D:\source\repos\AceAddLeaf\obj\Release\AceAddLeaf.pdb

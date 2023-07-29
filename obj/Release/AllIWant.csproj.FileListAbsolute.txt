@@ -1,0 +1,6 @@
+R:\Games\Aces and Adventures\BepInEx\plugins\AllIWant.dll
+R:\Games\Aces and Adventures\BepInEx\plugins\AllIWant.pdb
+D:\source\repos\AceAddLeaf\obj\Release\AllIWant.csproj.AssemblyReference.cache
+D:\source\repos\AceAddLeaf\obj\Release\AllIWant.csproj.CoreCompileInputs.cache
+D:\source\repos\AceAddLeaf\obj\Release\AllIWant.dll
+D:\source\repos\AceAddLeaf\obj\Release\AllIWant.pdb
